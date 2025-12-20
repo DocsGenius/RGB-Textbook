@@ -13,3 +13,7 @@ I'm Roman, an aspiring author from Virginia (USA) and enthusiast of many discipl
 
 ### Any suggestions?
 Feel free to contact me at my personal email **rmnrand@gmail.com**, starting your message with "RGB".
+
+### Sample!
+
+Congratulations on reading all that jargan, the sampe text is available here: /sample.md
