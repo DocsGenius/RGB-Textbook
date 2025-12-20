@@ -1,5 +1,5 @@
 # RGB-Textbook
-Red Green Blue - Test Driven Development
+![Cover Image Failed to Load](./RedBlueGreenCover.pdf)
 
 ### Purpose
 Red Green Blue describes the three state loop in which software is developed. As a hobbyist software developer, I've spent almost a decade honing the craft and reading many books on the subject, with the sub-genre is under-saturated I decided to create an entry level textbook.
