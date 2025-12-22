@@ -18,7 +18,7 @@ Feel free to contact me at my personal email **rmnrand@gmail.com**, starting you
 
 ## What’s with the colors?
 Red Green Blue (RGB) is the lowest level ‘loop’ observed within both classical and contemporary Test Driven Development (TDD). It’s the process of fail, pass, refactor.
-#### -
+-
 When applied properly, development is a loop that starts with criteria,  and ends with features. Developers often don’t feel this process as a linear pathway, in fact it’s considered lucky to run code without issue the first time. We see there are many things that can clutter the mind, such as regressive issues, that can  — and will — grind productivity to a halt. However, these issues can be prevented… And it all starts with the familiar colors; Red, Green, and Blue. 
-#### -
+-
 Though testing at it’s core is simple, it proves difficult for beginning developers to pick up. It’s not like we’re teaching anyone to test their “Hello World” programs, and why would we, but it begs the question of where on the road map tests become imperative. Within traditional collegiate study,  it’s often further neglected without a single dedicated textbook during any 4 year C.S. or adjacent course load. Granted you’ll often receive a section of a textbook for the subject, but it can go without finding itself on a final exam, it’s study guide, or the slides a professer presents in class — which results in significantly delayed utilization of TDD’s strength.
