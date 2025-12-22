@@ -20,8 +20,8 @@ Feel free to contact me at my personal email **rmnrand@gmail.com**, starting you
 Currently a collection of blurbs, April 2026 is expected to be at "Rough Draft" stage.
 
 # Sample Text
-## Introduction: What’s with the colors?
-#### The main idea.
+## Introduction
+#### How the book came to be.
 In my time as a software developer, I’ve been absorbed in textbooks. Book after book I have found more than knowledge — I’ve found steady ground.  
 &nbsp; &nbsp; For instance, “Growing Object-Oriented Software, Guided by Tests” by Steve Freeman and Nat Pryce, whose brilliance I hone into my own oh-so humble prose and directly cultivated the imaginative idea for this book. While the vast readings and overwhelming theoretical compared to applicable knowledge may strike my confidence, the repertoire of textbooks often soothes the imposter syndrome that all of us in the industry have felt, over the long term. That is to say, we’re not all posers, but even if you are this book is for you.  
 &nbsp; &nbsp; I hope this book, in its first edition, creates a foundation for both the reader and for future editions to release throughout my career — providing an engaging read for all experience levels. That is to say, as it applies to professional development, to be read for both the industry’s new-comers and for those within it.
