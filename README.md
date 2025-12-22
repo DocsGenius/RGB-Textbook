@@ -14,7 +14,8 @@ I'm Roman, an aspiring author from Virginia (USA) - and enthusiast of many disci
 
 ### Any suggestions?
 Feel free to contact me at my personal email **rmnrand@gmail.com**, starting your message with "RGB".  
-<a href="https://editor.reedsy.com/s/Iq9jdle">You can also read and comment on the *actual and current* draft here!</a>
+<a href="https://editor.reedsy.com/s/Iq9jdle">You can also read the *current* draft here!</a>  
+Currently a collection of blurbs, April 2026 is expected to be at "Rough Draft" stage.
 
 ## What’s with the colors? -- snippet of Introduction
 Red Green Blue (RGB) is the lowest level ‘loop’ observed within both classical and contemporary Test Driven Development (TDD). It’s the process of fail, pass, refactor.  
