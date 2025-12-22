@@ -13,7 +13,7 @@ The book is written for those unfamiliar with tests, and also provides for anyon
 I'm Roman, an aspiring author from Virginia (USA) - and enthusiast of many disciplines. I was never much of a writer, but in a quote of my own, "if nothing is important to you, nothing is important about you" -- I've found it imperative I share my experiences. I've most fondly spent my time developing software, particularly plugins and features that coinside with existing solutions. Within that specific realm of software development, one is typically creating very modular -- and highly utile -- solutions. Ultimately this requires **testing**! In my pursuit for knowledge on 'clean code', I had found Test Driven Development -- and have since read a few books on the matter. Tests have assumed non-negotiable importance in my software developments, and as it comes for the future, it's the perfect way to utilize A.I.! I'm excited to declare this book to enter peer review, and open suggestions, by fall 2026!
 
 ### Any suggestions?
-Feel free to contact me at my personal email **rmnrand@gmail.com**, starting your message with "RGB".
+Feel free to contact me at my personal email **rmnrand@gmail.com**, starting your message with "RGB".  
 <a href="editor.reedsy.com/s/Iq9jdle">You can also read and comment on the *actual and current* draft here!</a>
 
 ## What’s with the colors? -- snippet of Introduction
