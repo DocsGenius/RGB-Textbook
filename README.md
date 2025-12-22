@@ -2,7 +2,9 @@
 <p align="center">
   <img src="RedGreenBlueCover.png" width="50%" alt="RGB Textbook Cover">
 </p>
-### Purpose
+
+### Purpose  
+
 Red Green Blue describes the three lowest components of Test Driven Development. As a hobbyist software developer, I've spent almost a decade honing the craft and reading many books on the subject, with the entry-level books in Test Driven Development being heavily under-saturated, I decided to create my own textbook.
 The use of colors describes the mental imagery of the lowest loop in TDD, fail - suffice - refactor.
 
