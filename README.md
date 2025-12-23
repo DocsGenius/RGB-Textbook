@@ -5,19 +5,18 @@
 
 ### Purpose  
 
-Red Green Blue describes the three lowest components of Test Driven Development. As a hobbyist software developer, I've spent almost a decade honing the craft and reading many books on the subject, with the entry-level books in Test Driven Development being heavily under-saturated, I decided to create my own textbook.
-The use of colors describes the mental imagery of the lowest loop in TDD, fail - suffice - refactor.
+Red Green Blue describes the three lowest components of Test Driven Development (fail, pass, refactor). As a hobbyist software developer, I've spent almost a decade honing the craft and reading many books on the subject, with the entry-level books in Test Driven Development being heavily under-saturated, I decided to create my own textbook! I thought that introducing the rigid subjects I put off until college, in an imaginative and fun way, is a great way to help others learn and drive myself to absolute mastery.
 
 ### Audience
-The book is written for those unfamiliar with tests, and also provides for anyone in the uncertain shoes of solo development.
+The book is written for those unfamiliar with tests generally, and also provides for anyone in the uncertain shoes of solo development.
 
-### About the author
-I'm Roman, an aspiring author from Virginia (USA) - and enthusiast of many disciplines. I was never much of a writer, but in a quote of my own, "if nothing is important to you, nothing is important about you" -- I've found it imperative I share my experiences. I've most fondly spent my time developing software, particularly plugins and features that coinside with existing solutions. Within that specific realm of software development, one is typically creating very modular -- and highly utile -- solutions. Ultimately this requires **testing**! In my pursuit for knowledge on 'clean code', I had found Test Driven Development -- and have since read a few books on the matter. Tests have assumed non-negotiable importance in my software developments, and as it comes for the future, it's the perfect way to utilize A.I.! I'm excited to declare this book to enter peer review, and open suggestions, by fall 2026!
+### The "Why", and a little about me.
+I'm Roman, an aspiring author from Virginia (USA) - and I am the result of a decade of solo development. I was never much of a writer, but I've found it imperative I share my experiences. I've most fondly spent my time developing software, particularly plugins and features that coinside with existing solutions. Within that specific realm of software development, one is typically creating very modular -- and highly utile -- solutions. Ultimately this requires **testing**! In my pursuit for knowledge on 'clean code', I had found Test Driven Development -- and have since read a few books on the matter. Tests have assumed non-negotiable importance in my software developments, and as it comes for the future, it's the perfect way to utilize A.I.! I'm excited to declare this book to enter peer review, and open suggestions, by fall 2026!
 
 ### Any suggestions?
 Feel free to contact me at my personal email **rmnrand@gmail.com**, starting your message with "RGB".  
 <a href="https://editor.reedsy.com/s/Iq9jdle">You can also read the *current* draft here!</a>  
-Currently a collection of blurbs, April 2026 is expected to be at "Rough Draft" stage.
+Currently a collection of blurbs, April 2026 is expected to be at "Rough Draft" stage at my 500 word a day pace.
 
 ## Sample Text : (Introduction)
 #### How the book came to be.
