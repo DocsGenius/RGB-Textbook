@@ -1,9 +1,5 @@
----
-title: "Site is being worked on - apologies!"
----
-
 <style>
-.header {
+#header {
   display: none !important;
 }
 
