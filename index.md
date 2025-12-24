@@ -1,6 +1,16 @@
-<p align="center">
-  <img src="RedGreenBlueCover3.png" width="50%" alt="RGB Textbook Cover">
-</p>
+---
+title: "Site is being worked on - apologies!"
+---
+
+<style>
+.header {
+  display: none !important;
+}
+
+body {
+  background-color: #000000 !important;
+}
+</style>
 
 ### Purpose  
 
