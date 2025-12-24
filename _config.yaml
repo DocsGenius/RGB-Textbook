@@ -1,4 +1,4 @@
-theme: minima  # or any other Jekyll theme
+theme: jekyll-theme-tactile  # or any other Jekyll theme
 plugins:
   - jekyll-relative-links
 relative_links:
