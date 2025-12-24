@@ -8,6 +8,11 @@
   }
 </style>
 
+<p align="center">
+  <img src="RedGreenBlueCover3.png" width="50%" alt="RGB Textbook Cover">
+</p>
+
+
 ### Purpose  
 
 Red Green Blue describes the three lowest components of Test Driven Development (fail, pass, refactor). As a hobbyist software developer, I've spent almost a decade honing the craft and reading many books on the subject, with the entry-level books in Test Driven Development being heavily under-saturated, I decided to create my own textbook! I thought that introducing the rigid subjects I put off until college, in an imaginative and fun way, is a great way to help others learn and drive myself to absolute mastery.
