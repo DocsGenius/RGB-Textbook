@@ -3,3 +3,7 @@
 .github-corner {
   display: none !important;
 }
+
+body {
+  background-color: #000000 !important;
+}
