@@ -16,8 +16,14 @@
 ## Purpose  
 
 Red Green Blue describes the three lowest components of Test Driven Development (fail, pass, refactor). As a hobbyist software developer, I've spent almost a decade honing the craft and reading many books on the subject. Noticing the entry-level books in Test Driven Development had been heavily under-saturated, I decided to create my own textbook! I think that introducing the rigid subjects I put off until college, in an imaginative and fun way, is a great way to help others learn and drive myself to absolute mastery. I am excited to use this project as a pilot for a potential series, and to work on it on the side.
-## Audience
-The book is written for those unfamiliar with tests generally, and also provides for anyone in the uncertain shoes of solo development.
+##Who It’s For
+
+-Junior developers seeking a structured, accessible entry point to testing
+-Solo developers and indie creators who need robust workflows without overhead
+-Bootcamp grads and self‑taught engineers looking to formalize their testing skills
+-Experienced developers wanting a fresh perspective on TDD fundamentals
+
+The book balances theory with hands‑on examples, ensuring readers not only understand TDD but can apply it immediately to real projects.
 
 ## The "Why", and a little about me.
 I'm Roman, an aspiring author from Virginia (USA) - and I am the result of a decade of solo development. I was never much of a writer, but I've found it imperative I share my experiences. I've most fondly spent my time developing software, particularly plugins and features that coinside with existing solutions. Within that specific realm of software development, one is typically creating very modular -- and highly utile -- solutions. Ultimately this requires **testing**! In my pursuit for knowledge on 'clean code', I had found Test Driven Development -- and have since read a few books on the matter. Tests have assumed non-negotiable importance in my software developments, and as it comes for the future, it's the perfect way to utilize A.I.! I'm excited to declare this book to enter peer review, and open suggestions, by fall 2026!
