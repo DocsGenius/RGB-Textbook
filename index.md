@@ -1,113 +1,40 @@
 <style>
-  /* Hide header if needed */
   #header {
     display: none !important;
   }
   
-  /* Improved body styling */
   body {
-    background-color: #fafafa !important; /* Lighter background */
-    color: #333;
-    font-family: sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 20px;
-  }
-  
-  /* Container for readable text width */
-  .container {
-    max-width: 700px;
-    margin: 40px auto; /* Centers the content with space */
-    padding: 30px;
-    background-color: white;
-    border-radius: 8px;
-    box-shadow: 0 2px 10px rgba(0,0,0,0.05); /* Subtle shadow for depth */
-  }
-  
-  /* Center the image */
-  .book-cover {
-    text-align: center;
-    margin-bottom: 40px;
-  }
-  .book-cover img {
-    max-width: 70%;
-    height: auto;
-    border-radius: 4px;
-  }
-  
-  /* Style for the draft link */
-  .draft-link {
-    display: inline-block;
-    margin-top: 15px;
-    padding: 12px 25px;
-    background-color: #4a6fa5; /* A pleasant blue */
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-    font-weight: bold;
-  }
-  .draft-link:hover {
-    background-color: #3a5a80;
-  }
-  
-  /* Improve spacing for paragraphs */
-  p {
-    margin-bottom: 1.2em;
-  }
-  
-  /* Style for headings */
-  h1, h2, h3, h4 {
-    color: #222;
-    margin-top: 1.5em;
-    margin-bottom: 0.5em;
-  }
-  
-  h2 {
-    border-bottom: 2px solid #4a6fa5;
-    padding-bottom: 5px;
-  }
-  
-  /* Style for the email */
-  .email {
-    font-family: monospace;
-    background-color: #f0f0f0;
-    padding: 2px 6px;
-    border-radius: 3px;
+    background-color: #888888 !important;
   }
 </style>
 
-<div class="container">
-    <div class="book-cover">
-        <img src="RedGreenBlueCover3.png" alt="Red Green Blue Textbook Cover">
-    </div>
-    
-    <h1>Red Green Blue: A Foundational Guide to Test-Driven Development</h1>
-    
-    <h2>Purpose</h2>
-    <p>Red Green Blue describes the three lowest components of Test Driven Development (fail, pass, refactor). As a hobbyist software developer, I've spent almost a decade honing the craft and reading many books on the subject. With entry-level books in Test Driven Development being heavily under-saturated, I decided to create my own textbook! I thought that introducing the rigid subjects I put off until college, in an imaginative and fun way, is a great way to help others learn and drive myself to absolute mastery.</p>
-    
-    <h2>Audience</h2>
-    <p>The book is written for those unfamiliar with tests generally, and also provides for anyone in the uncertain shoes of solo development.</p>
-    
-    <h2>The "Why", and a little about me</h2>
-    <p>I'm Roman, an aspiring author from Virginia (USA) - and I am the result of a decade of solo development. I was never much of a writer, but I've found it imperative I share my experiences. I've most fondly spent my time developing software, particularly plugins and features that coincide with existing solutions. Within that specific realm of software development, one is typically creating very modular -- and highly utile -- solutions. Ultimately this requires <strong>testing</strong>! In my pursuit for knowledge on 'clean code', I had found Test Driven Development -- and have since read a few books on the matter. Tests have assumed non-negotiable importance in my software developments, and as it comes for the future, it's the perfect way to utilize A.I.! I'm excited to declare this book will enter peer review, and open suggestions, by fall 2026!</p>
-    
-    <h2>Sample Text: Introduction</h2>
-    
-    <h3>How the book came to be</h3>
-    <p>In my time as a software developer, I've been absorbed in textbooks. Book after book I have found more than knowledge — I've found steady ground.</p>
-    <p>For instance, every day I hone a little bit of "Growing Object-Oriented Software, Guided by Tests" by Steve Freeman and Nat Pryce, into my own oh-so humble prose. It's from my readings that I've gathered the imaginative idea for this book. Overall the repertoire of textbooks often soothes the imposter syndrome that all of us in the industry have felt. That is to say, we're not all posers, but even if you are this book is for you.</p>
-    <p>I hope this book, in its first edition, creates a foundation for both the reader and for future editions to release throughout my career — providing an engaging read for all experience levels. That is to say, as it applies to professional development, to be read for both the industry's newcomers and for those within it and the case of imposter syndrome we all have had.</p>
-    
-    <h3>What's with the colors exactly?</h3>
-    <p>They correlate to the mantra of Test Driven Development (TDD); fail, pass, refactor. It's imperative that this subject is taught, yet remarkably it is often over-shadowed. This book hopes to make TDD an exciting and imaginative subject, and to provide the reader with plentiful perspectives from fresh grads and professionals -- covering any gaps for those who might be self-taught.</p>
-    <p>When applied properly, development is a loop that starts with criteria, and ends with features. Developers often don't feel this process as a linear pathway, in fact it's considered lucky to run code without issue the first time. We see there are many things that can clutter the mind, such as regressive issues, that can — and will — grind productivity to a halt. However, these issues can be prevented… And it all starts with the familiar colors; Red, Green, and Blue.</p>
-    <p>Though testing at its core is simple, it proves difficult for beginning developers to pick up. It's not like we're teaching anyone to test their "Hello World" programs, and why would we, but it begs the question of where on the road map tests become imperative. Within traditional collegiate study, it's often further neglected without a single dedicated textbook during any 4 year C.S. or adjacent course load. Granted you'll often receive a section of a textbook for the subject, but it can go without finding itself on a final exam, its study guide, or the slides a professor presents in class — which results in significantly delayed utilization of TDD's strength.</p>
-    <p>This book promises that strength, and when you're ready... the first chapter awaits!</p>
-    
-    <h2>Any suggestions?</h2>
-    <p>Feel free to contact me at my personal email <span class="email">rmnrand@gmail.com</span>, starting your message with "RGB".</p>
-    <p>Currently a collection of blurbs, April 2026 is expected to be at "Rough Draft" stage at my 500 word a day pace.</p>
-    
-    <a href="https://editor.reedsy.com/s/Iq9jdle" class="draft-link">Read the Current Draft on Reedsy</a>
-</div>
+<p align="center">
+  <img src="RedGreenBlueCover3.png" width="50%" alt="RGB Textbook Cover">
+</p>
+
+
+## Purpose  
+
+Red Green Blue describes the three lowest components of Test Driven Development (fail, pass, refactor). As a hobbyist software developer, I've spent almost a decade honing the craft and reading many books on the subject, with the entry-level books in Test Driven Development being heavily under-saturated, I decided to create my own textbook! I thought that introducing the rigid subjects I put off until college, in an imaginative and fun way, is a great way to help others learn and drive myself to absolute mastery.
+
+## Audience
+The book is written for those unfamiliar with tests generally, and also provides for anyone in the uncertain shoes of solo development.
+
+## The "Why", and a little about me.
+I'm Roman, an aspiring author from Virginia (USA) - and I am the result of a decade of solo development. I was never much of a writer, but I've found it imperative I share my experiences. I've most fondly spent my time developing software, particularly plugins and features that coinside with existing solutions. Within that specific realm of software development, one is typically creating very modular -- and highly utile -- solutions. Ultimately this requires **testing**! In my pursuit for knowledge on 'clean code', I had found Test Driven Development -- and have since read a few books on the matter. Tests have assumed non-negotiable importance in my software developments, and as it comes for the future, it's the perfect way to utilize A.I.! I'm excited to declare this book to enter peer review, and open suggestions, by fall 2026!
+
+## Sample Text : (Introduction)
+#### How the book came to be.
+In my time as a software developer, I’ve been absorbed in textbooks. Book after book I have found more than knowledge — I’ve found steady ground.  
+&nbsp; &nbsp;For instance, every day I hone a little bit of “Growing Object-Oriented Software, Guided by Tests” by Steve Freeman and Nat Pryce, into my own oh-so humble prose. It’s from my readings that I’ve gathered the imaginative idea for this book. Overall the repertoire of textbooks often soothes the imposter syndrome that all of us in the industry have felt. That is to say, we’re not all posers, but even if you are this book is for you.  
+&nbsp; &nbsp; I hope this book, in its first edition, creates a foundation for both the reader and for future editions to release throughout my career — providing an engaging read for all experience levels. That is to say, as it applies to professional development, to be read for both the industry’s new-comers and for those within it and the case of imposter syndrome we all have had.
+#### What’s with the colors exactly?
+They correlate to the mantra of Test Driven Development (TDD); fail, pass, refactor. It’s imperative that this subject is taught, yet remarkably it is often over-shadowed. This book hopes to make TDD an exciting and imaginative subject, and to provide the reader with plentiful perspectives from fresh grads and professionals -- covering any gaps for those who might be self-taught.
+&nbsp; &nbsp; When applied properly, development is a loop that starts with criteria,  and ends with features. Developers often don’t feel this process as a linear pathway, in fact it’s considered lucky to run code without issue the first time. We see there are many things that can clutter the mind, such as regressive issues, that can  — and will — grind productivity to a halt. However, these issues can be prevented… And it all starts with the familiar colors; Red, Green, and Blue.   
+&nbsp; &nbsp; Though testing at its core is simple, it proves difficult for beginning developers to pick up. It’s not like we’re teaching anyone to test their “Hello World” programs, and why would we, but it begs the question of where on the road map tests become imperative. Within traditional collegiate study,  it’s often further neglected without a single dedicated textbook during any 4 year C.S. or adjacent course load. Granted you’ll often receive a section of a textbook for the subject, but it can go without finding itself on a final exam, its study guide, or the slides a professer presents in class — which results in significantly delayed utilization of TDD’s strength.  
+&nbsp; &nbsp; This book promises that strength, and when you’re ready.. the first chapter awaits!
+
+## Any suggestions?
+Feel free to contact me at my personal email **rmnrand@gmail.com**, starting your message with "RGB".  
+<a href="https://editor.reedsy.com/s/Iq9jdle">You can also read the *current* draft here!</a>  
+Currently a collection of blurbs, April 2026 is expected to be at "Rough Draft" stage at my 500 word a day pace.
