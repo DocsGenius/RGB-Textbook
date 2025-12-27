@@ -41,5 +41,4 @@ They correlate to the mantra of Test Driven Development (TDD); fail, pass, refac
 
 ## Any suggestions?
 Feel free to contact me at my personal email **rmnrand@gmail.com**, starting your message with "RGB".  
-<a href="https://editor.reedsy.com/s/Iq9jdle">You can also read the *current* draft here!</a>  
 Currently a collection of blurbs, April 2026 is expected to be at "Rough Draft" stage at my 500 word a day pace.
