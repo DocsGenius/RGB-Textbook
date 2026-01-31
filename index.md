@@ -9,7 +9,7 @@
 </style>
 
 <p align="center">
-  <img src="RedGreenBlueCover3.png" width="50%" alt="RGB Textbook Cover">
+  <img src="new.png" width="50%" alt="RGB Textbook Cover">
 </p>
 
 
