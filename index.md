@@ -110,8 +110,8 @@ Planned early chapters include:
 
 - **Current state:** Early manuscript & concept refinement  
 - **Now:** Collection of essays, diagrams, and chapter outlines  
-- **Target:** Rough Draft by **April 2026**, at a 500-words-per-day pace  
-- **Peer review:** Planned for **Fall 2026**
+- **Target:** Rough Draft by middle-late **2026**, at a 133-words-per-day pace  
+- **Peer review:** Planned early **2027**
 
 This page will expand as the textbook does.
 
