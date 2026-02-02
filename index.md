@@ -2,43 +2,126 @@
   #header {
     display: none !important;
   }
-  
+
   body {
     background-color: #888888 !important;
   }
 </style>
 
 <p align="center">
-  <img src="new.png" width="50%" alt="RGB Textbook Cover">
+  <img src="new.png" width="50%" alt="RGB Systems Design Textbook Cover">
 </p>
 
+# Red · Green · Blue  
+### A Systems Thinking & Design Textbook
 
-## Purpose  
+## Purpose
 
-Red Green Blue describes the three lowest components of Test Driven Development (fail, pass, refactor). As a hobbyist software developer, I've spent almost a decade honing the craft and reading many books on the subject. Noticing the entry-level books in Test Driven Development had been heavily under-saturated, I decided to create my own textbook! I think that introducing the rigid subjects I put off until college, in an imaginative and fun way, is a great way to help others learn and drive myself to absolute mastery. I am excited to use this project as a pilot for a potential series, and to work on it on the side.  
+**Red Green Blue** is evolving.
+
+Originally conceived as a Test Driven Development (TDD) textbook, this project has grown into a broader exploration of **systems thinking, modeling, and design**. Testing remains a foundational pillar—but it is now framed as one tool among many for understanding, shaping, and sustaining complex systems.
+
+This textbook aims to introduce systems design from the ground up:  
+how to reason about constraints, feedback loops, abstractions, tradeoffs, and long-term behavior—*before* code, during development, and long after deployment.
+
+The goal is simple:  
+to make systems design **approachable, practical, and intellectually satisfying**, especially for developers who never received a formal introduction.
+
+> This site currently serves as a landing page.  
+> **More chapters, diagrams, and case studies are actively being developed.**
+
+---
 
 ## Who It’s For
--Junior developers seeking a structured, accessible entry point to testing  
--Solo developers and indie creators who need robust workflows without overhead  
--Bootcamp grads and self‑taught engineers looking to formalize their testing skills  
--Experienced developers wanting a fresh perspective on TDD fundamentals  
 
-The book balances theory with hands‑on examples, ensuring readers not only understand TDD but can apply it immediately to real projects.
+- **College students** looking for an intuitive entry point into systems modeling, testing, and optimization  
+- **Self-taught developers** who want to formalize their intuition  
+- **Indie developers & solo builders** designing systems without enterprise overhead  
+- **Experienced engineers** seeking a fresh, first-principles perspective on design  
+- **Readers of TDD** who want to understand *where testing fits in the larger system*
 
-## The "Why", and a little about me.
-I'm Roman, an aspiring author from Virginia (USA) - and I am the result of a decade of solo development. I was never much of a writer, but I've found it imperative I share my experiences. I've most fondly spent my time developing software, particularly plugins and features that coinside with existing solutions. Within that specific realm of software development, one is typically creating very modular -- and highly utile -- solutions. Ultimately this requires **testing**! In my pursuit for knowledge on 'clean code', I had found Test Driven Development -- and have since read a few books on the matter. Tests have assumed non-negotiable importance in my software developments, and as it comes for the future, it's the perfect way to utilize A.I.! I'm excited to declare this book to enter peer review, and open suggestions, by fall 2026!
+The book balances theory with concrete examples, helping readers build mental models—not just implementations.
 
-## Sample Text : (Introduction)
-#### How the book came to be.
-In my time as a software developer, I’ve been absorbed in textbooks. Book after book I have found more than knowledge — I’ve found steady ground.  
-&nbsp; &nbsp;For instance, every day I hone a little bit of “Growing Object-Oriented Software, Guided by Tests” by Steve Freeman and Nat Pryce, into my own oh-so humble prose. It’s from my readings that I’ve gathered the imaginative idea for this book. Overall the repertoire of textbooks often soothes the imposter syndrome that all of us in the industry have felt. That is to say, we’re not all posers, but even if you are this book is for you.  
-&nbsp; &nbsp; I hope this book, in its first edition, creates a foundation for both the reader and for future editions to release throughout my career — providing an engaging read for all experience levels. That is to say, as it applies to professional development, to be read for both the industry’s new-comers and for those within it and the case of imposter syndrome we all have had.
-#### What’s with the colors exactly?
-They correlate to the mantra of Test Driven Development (TDD); fail, pass, refactor. It’s imperative that this subject is taught, yet remarkably it is often over-shadowed. This book hopes to make TDD an exciting and imaginative subject, and to provide the reader with plentiful perspectives from fresh grads and professionals -- covering any gaps for those who might be self-taught.
-&nbsp; &nbsp; When applied properly, development is a loop that starts with criteria,  and ends with features. Developers often don’t feel this process as a linear pathway, in fact it’s considered lucky to run code without issue the first time. We see there are many things that can clutter the mind, such as regressive issues, that can  — and will — grind productivity to a halt. However, these issues can be prevented… And it all starts with the familiar colors; Red, Green, and Blue.   
-&nbsp; &nbsp; Though testing at its core is simple, it proves difficult for beginning developers to pick up. It’s not like we’re teaching anyone to test their “Hello World” programs, and why would we, but it begs the question of where on the road map tests become imperative. Within traditional collegiate study,  it’s often further neglected without a single dedicated textbook during any 4 year C.S. or adjacent course load. Granted you’ll often receive a section of a textbook for the subject, but it can go without finding itself on a final exam, its study guide, or the slides a professer presents in class — which results in significantly delayed utilization of TDD’s strength.  
-&nbsp; &nbsp; This book promises that strength, and when you’re ready.. the first chapter awaits!
+---
 
-## Any suggestions?
-Feel free to contact me at my personal email **rmnrand@gmail.com**, starting your message with "RGB".  
-Currently a collection of blurbs, April 2026 is expected to be at "Rough Draft" stage at my 500 word a day pace.
+## From TDD to Systems Design
+
+Red Green Blue began with a narrow focus on Test Driven Development:  
+*fail, pass, refactor.*
+
+Over time, a larger pattern emerged.
+
+Testing is not the system—it is a **feedback mechanism**.  
+Refactoring is not cleanup—it is **system evolution**.  
+Design is not upfront—it is **continuous sense-making**.
+
+This textbook reframes familiar development practices as components of broader systems:
+- software systems  
+- organizational systems  
+- feedback-driven learning systems  
+- long-lived technical ecosystems  
+
+TDD remains central, but now lives inside a wider, more powerful context.
+
+---
+
+## A Little About Me
+
+I’m Roman—an aspiring author and long-time solo developer from Virginia (USA).
+
+I’ve spent nearly a decade building modular software: plugins, extensions, and features that must coexist with existing systems. That kind of work forces you to think in boundaries, interfaces, and unintended consequences—whether you have the language for it or not.
+
+Like many developers, I learned systems thinking *implicitly*, through failure.  
+This book is an attempt to make those lessons **explicit**, earlier, and more humane.
+
+My hope is that this first edition establishes a foundation that can grow alongside my career—expanding with new insights, new systems, and new mistakes worth sharing.
+
+---
+
+## What Do the Colors Mean *Now*?
+
+The colors still matter.
+
+- **Red** — Signals, constraints, failure, and feedback  
+- **Green** — Stability, flow, working paths through a system  
+- **Blue** — Structure, refactoring, and long-term design
+
+Together, they describe a loop that exists in *all* systems—not just tests:
+observe → adapt → restructure.
+
+This book uses that loop as a recurring lens, applying it to codebases, architectures, workflows, and teams.
+
+---
+
+## Sample Text (Coming Soon)
+
+Early drafts, diagrams, and chapter excerpts will be published here as the manuscript grows.
+
+Planned early chapters include:
+- Thinking in Systems (Without the Math)
+- Feedback Loops in Software
+- Testing as Signal, Not Safety
+- Local Decisions vs Global Behavior
+- When Abstractions Break
+
+---
+
+## Status & Roadmap
+
+- **Current state:** Early manuscript & concept refinement  
+- **Now:** Collection of essays, diagrams, and chapter outlines  
+- **Target:** Rough Draft by **April 2026**, at a 500-words-per-day pace  
+- **Peer review:** Planned for **Fall 2026**
+
+This page will expand as the textbook does.
+
+---
+
+## Suggestions & Contact
+
+If you have thoughts, critiques, or curiosity, feel free to reach out:
+
+**rmnrand@gmail.com**  
+Start your message with **“RGB”**
+
+Conversations are welcome—this book is being built in the open.
