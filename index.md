@@ -28,7 +28,7 @@ The goal is simple:
 to make systems design **approachable, practical, and intellectually satisfying**, especially for developers who never received a formal introduction.
 
 > This site currently serves as a landing page.  
-> **More chapters, diagrams, and case studies are actively being developed.**, the below content is an AI explanation of the textbook in a rework of my old summary -- The textbook is human made entirely, but I am swamped in trying to finish my bachelor's (50 some credits left, and completing 27~+ credits in the last 4 weeks at WGU with intense studying)
+> **More chapters, diagrams, and case studies are actively being developed.**, the below content is an AI written overview of the some 2-3000 new words of changes in the same format as my old summary -- The textbook is human made entirely, but I am swamped in trying to finish my bachelor's (50 some credits left, and completing 27~+ credits in the last 4 weeks at WGU with intense studying)
 
 ---
 
