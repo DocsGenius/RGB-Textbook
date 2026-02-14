@@ -19,12 +19,29 @@ The reference edition is available for review below, and the rough draft of the 
 I plan to release the rough draft by the end of 2026, and the reference edition by the end of 2027. In good news, I have finalized the format of the book which will be Red, Green, Blue followed by a few select case studies.
 
 Development changes?
-**All roads lead to Google.** I had originally tried writing on the Reedsy platform, but unfortunately it was not a good fit for me. I have since moved to writing on Docs, where I have started writing the Red Chapter.
+**All roads lead to Google.** I had originally tried writing on the Reedsy platform, but it turns out Reedsy was really uncooperative with laying out images and font utilities. I have since moved to writing on Docs, where I have started writing the Red Chapter.
 I have also started a platform for writers myself, and I plan to use it to publish the framework over the next few days at <a href="https://geniusdocs.blog">geniusdocs.blog</a>
 
-About me!
-Hi, I'm Roman. I'm a incoming "Software Developer & IT" intern at Intact Financial, and Senior at Western Governor's University. I'm currently one of the fastest students at WGU, having completed 40 credits in 6 weeks. While I work on studying for hundred-question exams, I like to write and create applications! I first started at a bootcamp at 8 years old, and made a working flappy bird clone on Scratch that I still have on a flash drive to this day. I will never forget the day that I decided to become a Software Engineer, at Fannie Mae's take your kid to work day I remember my mother's colleague was impressed with where I was and said I should join them! I haven't quite heard back from them since then though (it's okay, you can laugh)...  
-In the mean time, I've developed a few Roblox games, 3 public *functional* Unity templates, a couple Discord bots, you get the point! I was the founder and president of a Chess club in Highschool, and Alumni executive of my Tau Kappa Epsilon chapter when I had attended George Mason university for my first year of college (transferred). I'm a pretty determined individual, which is why I gaurantee this book will be ready by end of 2026 for initial reviews. (Recommended subsections for the reference edition, as well as critiques on facts are helpful)
+## The Unabridged Behavioral Interview. How I wish I could reply to "Tell us a little about yourself"
+
+Hi, I’m Roman.
+
+I am an incoming Software Developer & IT Intern at Intact Financial and a Senior at Western Governors University. I tend to operate at a different speed than most—I recently completed 40 credits in 6 weeks, a pace fueled by a mix of obsessive study habits and a genuine love for the craft.
+
+My journey in a nutshell:
+I first attended a coding bootcamp at 8 years old, and still have the Flappy Bird clone I built in Scratch.mit.edu on a flash drive to prove it!
+My Motivation: During a "Take Your Kid to Work Day" at Fannie Mae, a senior engineer saw my work and told me I belonged in the field. I’m still waiting for that specific job offer (call me, Fannie Mae!), but I’ve been building ever since. (it's okay, you can laugh)
+The Portfolio: Beyond the textbook, I’ve shipped Roblox games, three functional Unity templates, and various Discord utility bots (they keep me company)
+Life Accomplishments:  
+Former **Founder/ 2 year President** of Cosby school Chess Club.  
+**4x Track and Field Captain, 4x State Men's Discus (Freshman to Senior)**  
+**Alumni Executive** of Tau Kappa Epsilon (George Mason University chapter, elected as a freshman).  
+Completed a generational **40 credits in 6 weeks** at Western Governor's University, no public rankings, but this is **absolutely** not common.  
+
+I am a high-output, determined individual. I guarantee this book will be ready for initial review by the end of 2026.
+'''txt
+Note to Reviewers: I am actively seeking feedback on the Reference Edition—specifically regarding subsection organization and technical fact-checking.
+'''
 
 # Reference Edition - Definitions and planned structure
 ## Preface
