@@ -12,6 +12,20 @@
   <img src="new.png" width="20%" alt="RGB Systems Design Textbook Cover">
 </p>
 
+## Recent Updates
+
+**Red Green Blue** is a textbook that teaches systems design from the ground up.
+Currently it is in the early stages of development, but I have finished the reference edition as of February 14th 2026. (A true labor of love)
+
+The reference edition is available for review below, and the rough draft of the Red Chapter without exercises is almost complete.
+Previously the site was unmaintained, apologies, I have since resumed development of the site as I've received some positive feedback and much needed time.
+
+I plan to release the rough draft by the end of 2026, and the reference edition by the end of 2027. In good news, I have finalized the format of the book which will be Red, Green, Blue followed by a few select case studies.
+
+**All roads lead to Google.** I had originally tried writing on the Reedsy platform, but unfortunately it was not a good fit for me. I have since moved to writing on Docs, where I have started writing the Red Chapter.
+
+I have also started a platform for writers myself, and I plan to use it to publish the framework over the next few days at <a href="https://geniusdocs.blog">geniusdocs.blog</a>
+
 # Reference Edition - Definitions and planned structure
 ## Preface
 
