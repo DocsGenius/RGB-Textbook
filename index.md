@@ -9,7 +9,7 @@
 </style>
 
 <p align="center">
-  <img src="new.png" width="50%" alt="RGB Systems Design Textbook Cover">
+  <img src="new.png" width="20%" alt="RGB Systems Design Textbook Cover">
 </p>
 
 # Reference Edition - Definitions and planned structure
