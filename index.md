@@ -13,115 +13,91 @@
 </p>
 
 # Red · Green · Blue  
-### A Systems Thinking & Design Textbook
+## Preface
 
-## Purpose
+Software Development and Systems Design is a discipline of efficiency and consistency. The colors Red, Green, and Blue represent the three topics that this textbook will cover: Failure, Scalability, and Speed.
 
-**Red Green Blue** is evolving.
+### Red
+Every connection to an app is a direct interaction with thousands of design decisions. Engineers must account for not only their own work, but the work that precedes them. Failures in any team are bound to happen, but it’s the readiness that separates the successful and the not-so. This portion covers how issues are prevented with proper testing and design principles.
 
-Originally conceived as a Test Driven Development (TDD) textbook, this project has grown into a broader exploration of **systems thinking, modeling, and design**. Testing remains a foundational pillar—but it is now framed as one tool among many for understanding, shaping, and sustaining complex systems.
+### Green
+In the Cloud-dominated world, scalability isn’t an issue. The worries of whether your application handles load are moot, it’s about the resources utilized to do so. This book will focus on ensuring elasticity for enterprise grade systems.
 
-This textbook aims to introduce systems design from the ground up:  
-how to reason about constraints, feedback loops, abstractions, tradeoffs, and long-term behavior—*before* code, during development, and long after deployment.
+### Blue
+You’re going to need speed. Delivering services faster and at lower compute than competitors is the core of most teams. From the interview to the job, your performance is measured by the real efficiency you create (or lag behind).
+	While Artificial Intelligence can develop syntax and a convenient auto-complete, it cannot yet build a resilient system that incorporates a mastery of RGB. The incorporation of advanced design principles is critical for future engineers.
 
-The goal is simple:  
-to make systems design **approachable, practical, and intellectually satisfying**, especially for developers who never received a formal introduction.
+## Red
 
-> This site currently serves as a landing page.  
-> **More chapters, diagrams, and case studies are actively being developed.**, the below content is an AI written overview of the some 2-3000 new words of changes in the same format as my old summary -- The textbook is human made entirely, but I am swamped in trying to finish my bachelor's (50 some credits left, and completing 27~+ credits in the last 4 weeks at WGU with intense studying)
+Red is the active prevention of technological armageddon.
 
----
+### Verification & Validation (V&V)
+When examining the V&V of a system’s components, you’re inspecting the liability. Every single line of code is a liability that must be verified whenever it is used. While Verification is the upward process of ensuring the technical requirements of any system are believed to be correct, Validation is the front-to-back testing of code to ensure that it meets the desired value to stakeholders.
+This colliding relationship is often denoted by the V-Model, with these two processes representing a bridge between abstract requirements and concrete execution.
 
-## Who It’s For
+#### Verification
+Verification begins with gathering fundamental requirements. After verifiable criteria is set, it is used in systems analysis, and ensures a proper software design that fits into a modular adoption.
+This process is done both before and after code is written, whenever a criterion changes. Every new feature, and even fixes, are a liability that must be vetted.
+(Describe every process, known issues, and resolve with the coding stage)
 
-- **College students** looking for an intuitive entry point into systems modeling, testing, and optimization  
-- **Self-taught developers** who want to formalize their intuition  
-- **Indie developers & solo builders** designing systems without enterprise overhead  
-- **Experienced engineers** seeking a fresh, first-principles perspective on design  
-- **Readers of TDD** who want to understand *where testing fits in the larger system*
+#### Validation
+As the team begins producing viable code, the validation stage begins. The smallest units of the code are first tested individually, and larger tests incorporate the code into the module and systems level, afterward the system undergoes acceptance testing.
+At any time that code is produced, and safely verified, it must finally be validated for this process to rest.
 
-The book balances theory with concrete examples, helping readers build mental models—not just implementations.
+### ACID (Atomicity, Consistency, Isolation, Durability)
+Define the all-or-nothing approach, and remember the divisibility structure of Atoms, Molecules, Organisms, Templates, Pages. Ensure state validation, operational independence of neighboring utilities, and permanent durable record keeping.å
 
----
+### Guardrails
+Implementing throttles which limit the resources of any user or process, as well as rate limiting total operations or requests. The circuit breaker pattern, partitioning system resources to ensure fails are contained, enforcing that data without adherence to strict typing is not allowed to exist.
 
-## From TDD to Systems Design
+### Observability
+The property that enables current and future retrospective decisions, and ensures data telemetry.
+Metric observation, logging event context, and tracing request paths.
 
-Red Green Blue began with a narrow focus on Test Driven Development:  
-*fail, pass, refactor.*
+### System Integrity
+The final goal of the red phase is System Integrity, absolutely certain business logic, enforced atomicity, dynamic predictability, idempotency, and bulkheading.
 
-Over time, a larger pattern emerged.
+### Accountability
+The most important step in ensuring system integrity within the red phase is disaster management. Accountability, and workplace acceptance, of unforeseen issues is important to ensure that issues are resolved.
 
-Testing is not the system—it is a **feedback mechanism**.  
-Refactoring is not cleanup—it is **system evolution**.  
-Design is not upfront—it is **continuous sense-making**.
 
-This textbook reframes familiar development practices as components of broader systems:
-- software systems  
-- organizational systems  
-- feedback-driven learning systems  
-- long-lived technical ecosystems  
+## Green
 
-TDD remains central, but now lives inside a wider, more powerful context.
+Green is the transition from the singular machine to the distributed system.
 
----
+### The Cloud
+Utilizing Infrastructure as a Service (IaaS), Platform as a Service (Paas), Function as a Service (Faas), Load Balancers, Object Storage, Managed Databases.
 
-## A Little About Me
+### Elasticity & Scalability
+Scalability is the actual ability of a system to grow, whereas elasticity defines the compute required for some amount of growth or shrink. (describe models that describe elasticity, methods to reduce costs)
 
-I’m Roman—an aspiring author and long-time solo developer from Virginia (USA).
+### Stateless vs. Stateful
+The utilization of state for quicker access to data, but potential loss or inconsistency. Stateless allows for complete consistency across a distributed database and stateful, and discusses the importance of stateless in modern development as well as modern methods to improve speed that will be discussed in blue.
 
-I’ve spent nearly a decade building modular software: plugins, extensions, and features that must coexist with existing systems. That kind of work forces you to think in boundaries, interfaces, and unintended consequences—whether you have the language for it or not.
+### Database Sharding and Partitioning
+Partitioning involves separating a database into smaller fragments that are more manageable. It is important for any database that has expanded beyond its own physical limits to expand its data horizontally.
 
-Like many developers, I learned systems thinking *implicitly*, through failure.  
-This book is an attempt to make those lessons **explicit**, earlier, and more humane.
+### Caching In
+Using tools like Redis to undertake the bulk-heavy loads and reduce database pressure, inspect levels of caching from client, CDN, application, and distributed server (stateless access point).
 
-My hope is that this first edition establishes a foundation that can grow alongside my career—expanding with new insights, new systems, and new mistakes worth sharing.
+## Blue
 
----
+Blue is the iterative process of systems optimization.
 
-## What Do the Colors Mean *Now*?
+### Latency & Throughput
+Latency is the speed of a request and throughput is the capacity of the system in terms of operations(requests)/time.
 
-The colors still matter.
+### I/O Bottlenecks
+Firstly, I/O Wait is when a CPU stall until it receives requested data from a file or database. Blocking and non-blocking I/O; when a process either continues working after sending a GET to another component or whether it stalls. Using I/O batching to minimize the total requests, pooling connections to prevent slowdowns from the handshake process on new queries, and ensuring that logs are written sequentially, which means in the same non-random location.
 
-- **Red** — Signals, constraints, failure, and feedback  
-- **Green** — Stability, flow, working paths through a system  
-- **Blue** — Structure, refactoring, and long-term design
+### Concurrency & Thread Management
+Understanding the difference between concurrency and parallelism, wherein one system may interleave processes on it’s singular core (concurrency) or it might have multiple cores that work on these operations in parallel. A thread is the smallest unit of operations that a processor can handle. Creating, pausing, and terminating these threads is slow. Ensuring that threads are not exhausted on spikes, and that requests are assigned to a pool of open threads safely and switching between thread operations at a per processor level to ensure efficiency with variable resources. Race conditions occur when data is accessed and modified by multiple processes running asynchronously, which can result in corruption.
 
-Together, they describe a loop that exists in *all* systems—not just tests:
-observe → adapt → restructure.
+### Asynchronous Design
+Instead of waiting, an asynchronous system operates on “firing and forgetting”. The system decouples the request from its response, not tracking the request handling directly and continuing onwards. Event-driven architecture uses Message Queues, where a Producer queues a move, a Responder confirms the operation will occur and immediately responds, and a Consumer that operates upon the queue in the background. Utilizes Optimistic UI that feels instant, and utilizes roll-backs on errors.
 
-This book uses that loop as a recurring lens, applying it to codebases, architectures, workflows, and teams.
+### Query Optimization
+A honing process in which the logic where data is retrieved is optimized iteratively involving a few steps. Understanding the execution plan, the internal path that the database takes to find your data. General Database Indexing, N+1 query problem, denormalization for speed (contrast to red).
 
----
-
-## Sample Text (Coming Soon)
-
-Early drafts, diagrams, and chapter excerpts will be published here as the manuscript grows.
-
-Planned early chapters include:
-- Thinking in Systems (Without the Math)
-- Feedback Loops in Software
-- Testing as Signal, Not Safety
-- Local Decisions vs Global Behavior
-- When Abstractions Break
-
----
-
-## Status & Roadmap
-
-- **Current state:** Early manuscript & concept refinement  
-- **Now:** Collection of essays, diagrams, and chapter outlines  
-- **Target:** Rough Draft by middle-late **2026**, at a 133-words-per-day pace  
-- **Peer review:** Planned early **2027**
-
-This page will expand as the textbook does.
-
----
-
-## Suggestions & Contact
-
-If you have thoughts, critiques, or curiosity, feel free to reach out:
-
-**rmnrand@gmail.com**  
-Start your message with **“RGB”**
-
-Conversations are welcome—this book is being built in the open.
+### Content Delivery Networks
+Prevents geographic latency by physically moving user data closer to them. Understand the point of presence and the Time to First Byte with static data caching. Anycast routing and protocols, multiplexing, and edge code execution. CDN as a shield, and buffering spikes.
