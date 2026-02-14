@@ -35,7 +35,7 @@ My Motivation: During a "Take Your Kid to Work Day" at Fannie Mae, a senior engi
 The Portfolio: Beyond the textbook, I’ve shipped Roblox games, three functional Unity templates, and various Discord utility bots (they keep me company)  
 Life Accomplishments:  
 - Former **Founder/ 2 year President** of Cosby HS Chess Club (peak 1900 LiChess)
-- **4x Track and Field Captain, 4x State Men's Discus Top 10 (Freshman to Senior)**  
+- **4x Track and Field Captain, 4x VA State H.S. Men's Discus Top 10 (Freshman to Senior)**  
 - **Alumni Executive** of Tau Kappa Epsilon @ GMU (Under my leadership we won a Top 10 chapter award, out of 270...and raised over 20,000$ for St. Jude)
 - Completed a generational **40 credits in 6 weeks** at Western Governor's University, no public rankings, but this is **absolutely** not common. From Chess to Java I'm a sponge..  
 - Survived Nuss (Two bars implanted into chest) surgery, Double Jaw surgery, and two car accidents (not my fault) in one year's time. (what can't this kid do?)
