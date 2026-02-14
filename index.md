@@ -37,7 +37,8 @@ Life Accomplishments:
 - Former **Founder/ 2 year President** of Cosby HS Chess Club (peak 1900 LiChess)
 - **4x Track and Field Captain, 4x State Men's Discus Top 10 (Freshman to Senior)**  
 - **Alumni Executive** of Tau Kappa Epsilon (George Mason University chapter, elected as a freshman).  
-- Completed a generational **40 credits in 6 weeks** at Western Governor's University, no public rankings, but this is **absolutely** not common.  
+- Completed a generational **40 credits in 6 weeks** at Western Governor's University, no public rankings, but this is **absolutely** not common.
+- Survived Nuss (Two bars implanted into chest) surgery, Double Jaw surgery, and two car accidents (not my fault) in one year's time. (what can't this kid do?)
 
 I am a high-output, determined individual. I guarantee this book will be ready for initial review by the end of 2026.
 '''txt
