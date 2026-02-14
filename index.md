@@ -23,7 +23,7 @@ Development changes?
 I have also started a platform for writers myself, and I plan to use it to publish the framework over the next few days at <a href="https://geniusdocs.blog">geniusdocs.blog</a>
 
 ## The Unabridged Behavioral Interview.
-How I wish I could reply to "Tell us a little about yourself", and the expected maturity evident of a bureaucratic workpalce  
+How I wish I could reply to "Tell us a little about yourself", and the expected maturity evident of a bureaucratic workplace  
 
 Hi, I’m Roman.
 
