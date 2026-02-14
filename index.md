@@ -41,9 +41,8 @@ Life Accomplishments:
 - Survived Nuss (Two bars implanted into chest) surgery, Double Jaw surgery, and two car accidents (not my fault) in one year's time. (what can't this kid do?)
 
 I am a high-output, determined individual. I guarantee this book will be ready for initial review by the end of 2026.
-'''
+
 	Note to Reviewers: I am actively seeking feedback on the Reference Edition—specifically regarding subsection organization and technical fact-checking.
-'''
 
 # Reference Edition - Definitions and planned structure
 ## Preface
