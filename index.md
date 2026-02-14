@@ -12,19 +12,18 @@
   <img src="new.png" width="20%" alt="RGB Systems Design Textbook Cover">
 </p>
 
-## Recent Updates
-
-**Red Green Blue** is a textbook that teaches systems design from the ground up.
-Currently it is in the early stages of development, but I have finished the reference edition as of February 14th 2026. (A true labor of love)
-
-The reference edition is available for review below, and the rough draft of the Red Chapter without exercises is almost complete.
-Previously the site was unmaintained, apologies, I have since resumed development of the site as I've received some positive feedback and much needed time.
-
+## Recent & About Me
+Current standing:
+**Red Green Blue** is a textbook that teaches systems design from the ground up. Currently it is in the early stages of development, but I have finished the reference edition as of February 14th 2026. (A true labor of love)
+The reference edition is available for review below, and the rough draft of the Red Chapter (without exercises) will be the next thing available.
 I plan to release the rough draft by the end of 2026, and the reference edition by the end of 2027. In good news, I have finalized the format of the book which will be Red, Green, Blue followed by a few select case studies.
 
+Development changes?
 **All roads lead to Google.** I had originally tried writing on the Reedsy platform, but unfortunately it was not a good fit for me. I have since moved to writing on Docs, where I have started writing the Red Chapter.
-
 I have also started a platform for writers myself, and I plan to use it to publish the framework over the next few days at <a href="https://geniusdocs.blog">geniusdocs.blog</a>
+
+About me!
+Hi, I'm Roman. I'm a incoming Software Developer and IT intern at Intact Financial, and Senior at Western Governor's University. I'm currently one of the fastest students at WGU, in the top 1%, having completed 40 credits in 6 weeks. While I work on studying for hundred-question exams, I like to write and create applications! I first started at a bootcamp at 8 years old, and made a working flappy bird clone on Scratch that I still have on a flash drive to this day. I will never forget the day that I decided to become a Software Engineer, at Fannie Mae's take your kid to work day I remember my mother's colleague was impressed with where I was and said I should join them, I haven't quite heard back from them since then though ;(... In the mean time, I've developed a few Roblox games, 3 *adequate* Unity templates, a couple Discord bots, you get the point! I was the founder and president of a Chess club in Highschool, and Alumni executive of my Tau Kappa Epsilon chapter when I had attended George Mason university in just one year. I'm a pretty determined individual, which is why I gaurantee this book will be ready by end of 2026 for initial reviews. (Recommended subsections for the reference edition, as well as critiques on facts are helpful)
 
 # Reference Edition - Definitions and planned structure
 ## Preface
