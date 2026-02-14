@@ -28,7 +28,7 @@ Hi, I’m Roman.
 
 I am an incoming Software Developer & IT Intern at Intact Financial and a Senior at Western Governors University. I tend to operate at a different speed than most—I recently completed 40 credits in 6 weeks, a pace fueled by a mix of obsessive study habits and a genuine love for the craft.
 
-My journey in a nutshell:
+My journey in a nutshell:  
 I first attended a coding bootcamp at 8 years old, and still have the Flappy Bird clone I built in Scratch.mit.edu on a flash drive to prove it!  
 My Motivation: During a "Take Your Kid to Work Day" at Fannie Mae, a senior engineer saw my work and told me I belonged in the field. I’m still waiting for that specific job offer (call me, Fannie Mae!), but I’ve been building ever since. (it's okay, you can laugh)  
 The Portfolio: Beyond the textbook, I’ve shipped Roblox games, three functional Unity templates, and various Discord utility bots (they keep me company)  
