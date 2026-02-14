@@ -42,7 +42,7 @@ Life Accomplishments:
 
 I am a high-output, determined individual. I guarantee this book will be ready for initial review by the end of 2026.
 '''
-Note to Reviewers: I am actively seeking feedback on the Reference Edition—specifically regarding subsection organization and technical fact-checking.
+	Note to Reviewers: I am actively seeking feedback on the Reference Edition—specifically regarding subsection organization and technical fact-checking.
 '''
 
 # Reference Edition - Definitions and planned structure
