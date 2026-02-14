@@ -31,7 +31,7 @@ I am an incoming Software Developer & IT Intern at Intact Financial and a Senior
 My journey in a nutshell:
 I first attended a coding bootcamp at 8 years old, and still have the Flappy Bird clone I built in Scratch.mit.edu on a flash drive to prove it!
 My Motivation: During a "Take Your Kid to Work Day" at Fannie Mae, a senior engineer saw my work and told me I belonged in the field. I’m still waiting for that specific job offer (call me, Fannie Mae!), but I’ve been building ever since. (it's okay, you can laugh)
-The Portfolio: Beyond the textbook, I’ve shipped Roblox games, three functional Unity templates, and various Discord utility bots (they keep me company)
+The Portfolio: Beyond the textbook, I’ve shipped Roblox games, three functional Unity templates, and various Discord utility bots (they keep me company)  
 Life Accomplishments:  
 - Former **Founder/ 2 year President** of Cosby HS Chess Club (peak 1900 LiChess)
 - **4x Track and Field Captain, 4x State Men's Discus (Freshman to Senior)**  
