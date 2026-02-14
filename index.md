@@ -12,7 +12,7 @@
   <img src="new.png" width="50%" alt="RGB Systems Design Textbook Cover">
 </p>
 
-# Red · Green · Blue  
+# Reference Edition - Definitions and planned structure
 ## Preface
 
 Software Development and Systems Design is a discipline of efficiency and consistency. The colors Red, Green, and Blue represent the three topics that this textbook will cover: Failure, Scalability, and Speed.
