@@ -33,10 +33,10 @@ I first attended a coding bootcamp at 8 years old, and still have the Flappy Bir
 My Motivation: During a "Take Your Kid to Work Day" at Fannie Mae, a senior engineer saw my work and told me I belonged in the field. I’m still waiting for that specific job offer (call me, Fannie Mae!), but I’ve been building ever since. (it's okay, you can laugh)
 The Portfolio: Beyond the textbook, I’ve shipped Roblox games, three functional Unity templates, and various Discord utility bots (they keep me company)
 Life Accomplishments:  
-Former **Founder/ 2 year President** of Cosby school Chess Club.  
-**4x Track and Field Captain, 4x State Men's Discus (Freshman to Senior)**  
-**Alumni Executive** of Tau Kappa Epsilon (George Mason University chapter, elected as a freshman).  
-Completed a generational **40 credits in 6 weeks** at Western Governor's University, no public rankings, but this is **absolutely** not common.  
+- Former **Founder/ 2 year President** of Cosby school Chess Club.  
+- **4x Track and Field Captain, 4x State Men's Discus (Freshman to Senior)**  
+- **Alumni Executive** of Tau Kappa Epsilon (George Mason University chapter, elected as a freshman).  
+- Completed a generational **40 credits in 6 weeks** at Western Governor's University, no public rankings, but this is **absolutely** not common.  
 
 I am a high-output, determined individual. I guarantee this book will be ready for initial review by the end of 2026.
 '''txt
