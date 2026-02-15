@@ -22,25 +22,6 @@ Development changes?
 **All roads lead to Google.** I had originally tried writing on the Reedsy platform, but it turns out Reedsy was really uncooperative with laying out images and font utilities. I have since moved to writing on Docs, where I have started writing the Red Chapter.
 I have also started a platform for writers myself, and I plan to use it to publish the framework over the next few days at <a href="https://geniusdocs.blog">geniusdocs.blog</a>
 
-## The Unabridged Behavioral Interview.
-How I wish I could reply to "Tell us a little about yourself", and a little sunshine for the Hiring Comittees reading this :)
-
-Hi, I’m Roman.
-
-I am an incoming Software Developer & IT Intern at Intact Financial and a Senior at Western Governors University. I tend to operate at a different speed than most—I recently completed 40 credits in 6 weeks, a pace fueled by a mix of obsessive study habits and a genuine love for the craft.
-
-My journey in a nutshell:  
-I first attended a coding bootcamp at 8 years old, and still have the Flappy Bird clone I built in Scratch.mit.edu on a flash drive to prove it!  
-My Motivation: During a "Take Your Kid to Work Day" at Fannie Mae, a senior engineer saw my work and told me I belonged in the field. I’m still waiting for that specific job offer (call me, Fannie Mae!), but I’ve been building ever since. (it's okay, you can laugh)  
-The Portfolio: Beyond the textbook, I’ve shipped Roblox games, three functional Unity templates, and various Discord utility bots (they keep me company)  
-Life Accomplishments:  
-- Former **Founder/ 2 year President** of Cosby HS Chess Club (peak 1900 LiChess)
-- **4x Track and Field Captain, 4x VA State H.S. Men's Discus Top 10 (Freshman to Senior)**  
-- **Alumni Executive** of Tau Kappa Epsilon @ GMU (Under my leadership we won a Top 10 chapter award, out of 270...and raised over 20,000$ for St. Jude)
-- Completed a generational **40 credits in 6 weeks** at Western Governor's University, no public rankings, but this is **absolutely** not common. From Chess to Java I'm a sponge..  
-- Survived Nuss (Two bars implanted into chest) surgery, Double Jaw surgery, and two car accidents (not my fault) in one year's time. (what can't this kid do?)
-
-I am a high-output, determined individual. I guarantee this book will be ready for initial review by the end of 2026.
 
 	Note to Reviewers: I am actively seeking feedback on the Reference Edition—specifically regarding subsection organization and technical fact-checking.
 
